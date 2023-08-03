@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello, I'm Tamanna Singh!
+About Me:
+I am a dedicated Mechanical Engineering student with a burning passion for coding. My journey as an engineer has been enriched by the captivating world of programming, where I find joy in problem-solving and building innovative solutions.
 
-<!--
-**tamannaaaaa/tamannaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills:
+Programming Languages: Python, C++
+Web Technologies: HTML, CSS, JavaScript
+Data Analysis: Pandas, NumPy
 
-Here are some ideas to get you started:
+🌱 Learning Goals:
+I am committed to continuous learning and eager to expand my horizons. Currently, I am focused on deepening my knowledge of Python and exploring machine learning applications in engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact:
+📧 Email: tamannasingh7922@gmail.com
+LinkedIn: https://www.linkedin.com/in/tamanna-singh-5a1705246/
+
+Let's Collaborate:
+I'm enthusiastic about collaborating on exciting projects that combine mechanical engineering principles with the power of coding. Feel free to connect with me if you have any collaborative ideas or simply want to discuss the endless possibilities at the intersection of engineering and technology.
