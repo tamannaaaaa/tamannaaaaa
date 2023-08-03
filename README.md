@@ -1,14 +1,16 @@
-👋 Hello, I'm Tamanna Singh!
+👋 Hello, I'm Tamanna Singh! 🚀
+
 About Me:
-I am a dedicated Mechanical Engineering student with a burning passion for coding. My journey as an engineer has been enriched by the captivating world of programming, where I find joy in problem-solving and building innovative solutions.
+I am a dedicated Mechanical Engineering student with a burning passion for coding. My journey as an engineer has been enriched by the captivating world of programming, where I find joy in problem-solving and building innovative solutions. 💡
 
 🔧 Skills:
-Programming Languages: Python, C++
-Web Technologies: HTML, CSS, JavaScript
-Data Analysis: Pandas, NumPy
+Programming Languages: Python 🐍, C++ 💻
+Web Technologies: HTML 🌐, CSS 🎨, JavaScript 🖌️
+Data Analysis: Pandas 🐼, NumPy 🔢
+Data Structures and Algorithms: 🗂️
 
 🌱 Learning Goals:
-I am committed to continuous learning and eager to expand my horizons. Currently, I am focused on deepening my knowledge of Python and exploring machine learning applications in engineering.
+I am committed to continuous learning and eager to expand my horizons. Currently, I am focused on deepening my knowledge of Python and exploring machine learning applications in engineering. 🌟
 
 📫 Contact:
 📧 Email: tamannasingh7922@gmail.com
